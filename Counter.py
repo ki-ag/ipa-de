@@ -10,7 +10,7 @@ de_konst_und_vok = ['i', 'y', 'u', 'ɪ', 'e', 'ʏ', 'ø', 'ʊ', 'o', 'ɛ', 'œ',
                     'v', 'z', 'ʒ', 'j'
                     'l', 'r']
 
-with open("datasets\\dewikt.csv", mode='r', encoding="utf-8") as csvfile:
+with open("datasets/dewikt.csv", mode='r', encoding="utf-8") as csvfile:
     reader = csv.reader(csvfile)
     for w in reader:
         for l in list(w[1]):
