@@ -9,4 +9,4 @@ This project serves to visualise the distribution of phonemes in the German lang
 - [ ] ForceAtlas graph?
 
 ## sources
-German-ipa-dict: [devio-at/german-ipa-dict](https://github.com/devio-at/german-ipa-dict) [Wikipedia license CC-BY-SA](https://en.wikipedia.org/wiki/Wikipedia:Reusing_Wikipedia_content) applies.
+German-ipa-dict: [devio-at/german-ipa-dict](https://github.com/devio-at/german-ipa-dict), [Wikipedia license CC-BY-SA](https://en.wikipedia.org/wiki/Wikipedia:Reusing_Wikipedia_content) applies.
