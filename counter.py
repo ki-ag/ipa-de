@@ -17,6 +17,6 @@ with open("datasets/dewikt.csv", mode='r', encoding="utf-8") as csvfile:
             if l in de_konst_und_vok:
                 ipalist += l
 
-with open("output_counts.txt", mode='w',  encoding="utf-8") as output_file:
+with open("output/counts.txt", mode='w',  encoding="utf-8") as output_file:
     for sym, num in Counter(ipalist).items():
-        output_file.write(sym + ":" + str(num) + "\n")
+        output_file.write(sym + " " + str(num) + "\n")
