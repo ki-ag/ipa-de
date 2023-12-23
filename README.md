@@ -8,5 +8,5 @@ This project serves to visualise the distribution of phonemes in the German lang
 - [ ] Compare similarity (through: 1.consonant table, 2.phoneme frequency)
 - [ ] ForceAtlas graph?
 
-## sources
-German-ipa-dict: [devio-at/german-ipa-dict](https://github.com/devio-at/german-ipa-dict), [Wikipedia license CC-BY-SA](https://en.wikipedia.org/wiki/Wikipedia:Reusing_Wikipedia_content) applies.
+## source of data
+https://github.com/open-dict-data/ipa-dict
